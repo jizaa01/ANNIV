@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8"/>
@@ -15,5 +14,3 @@
   <P>I miss u so much bebe❤️</P>
   <div id="countdown"></div>
   <script src="apayh2.js"></script>
-</body>
-</html>
